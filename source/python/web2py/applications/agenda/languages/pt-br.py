@@ -170,6 +170,7 @@
 'Welcome %s': 'Bem-vindo %s',
 'Welcome to web2py': 'Bem-vindo ao web2py',
 'Welcome to web2py!': 'Bem-vindo ao web2py!',
+'Welcome to web2py1!': 'Welcome to web2py1!',
 'Which called the function %s located in the file %s': 'Que chamou a função %s localizada no arquivo %s',
 'Working...': 'Trabalhando...',
 'You are successfully running web2py': 'Você está executando o web2py com sucesso',
